@@ -1,3 +1,4 @@
+﻿genre,artist_name,track_name,track_id,popularity,acousticness,danceability,duration_ms,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,valence
 Pop,Daniel Powter,Bad Day,0mUyMawtxj1CJ76kn9gIZK,78,0.448,0.599,233640,0.785,0.00336,D#,0.151,-4.013,Major,0.0309,140.046,4/4,0.52
 Dance,Shawn Mendes,In My Blood,2QZ7WLBE8h2y1Y5Fb8RYbH,87,0.0573,0.622,211360,0.712,0,F,0.13,-7.321,Major,0.066,140.025,4/4,0.487
 Rap,Juice WRLD,Rich And Blind,6QNFQJKlZUKr0xlGZ74CZJ,78,0.0102,0.638,228720,0.624,0,A#,0.0944,-5.37,Major,0.0798,159.937,4/4,0.445
