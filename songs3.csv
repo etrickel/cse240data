@@ -1,0 +1,101 @@
+﻿genre,artist_name,track_name,track_id,popularity,acousticness,danceability,duration_ms,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,valence
+Blues,Twenty One Pilots,Nico And The Niners,5SehvGGC53A7SZKCLXQcyt,77,0.0699,0.728,225040,0.602,7.01e-06,A,0.318,-7.748,Minor,0.185,140.081,4/4,0.328
+Blues,Beyoncé,Crazy In Love,5IVuqXILoxVWvWEPm82Jxr,78,0.00249,0.646,236133,0.77,0,D,0.0715,-6.596,Minor,0.226,99.165,4/4,0.681
+Blues,LANY,Thick And Thin,3D110t9ctcoOoylXsc3iR8,76,0.059,0.697,212002,0.551,0,F,0.0762,-6.179,Minor,0.0282,99.996,4/4,0.339
+Industrial,XXXTENTACION,Everybody Dies In Their Nightmares,3GVkPk8mqxz0itaAriG1L7,86,0.847,0.734,95467,0.57,2.14e-05,G,0.112,-7.066,Minor,0.133,129.953,4/4,0.689
+Blues,Sam Smith,Dancing With A Stranger (with Normani),6Qs4SXO9dwPj5GKvVOv8Ki,97,0.45,0.741,171030,0.52,1.97e-06,G#,0.222,-7.513,Major,0.0656,102.998,4/4,0.347
+Blues,Foster The People,Pumped Up Kicks,7w87IxuO7BDcJ3YUqCyMTT,83,0.145,0.733,239600,0.71,0.115,F,0.0956,-5.849,Minor,0.0292,127.975,4/4,0.965
+Hip-Hop,Lil Peep,Benz Truck (гелик),3kBD2xHIqKWXjLAGidDTSz,76,0.0498,0.602,159987,0.762,0.00819,D,0.121,-6.149,Minor,0.0347,92.02,4/4,0.112
+Industrial,XXXTENTACION,I Don't Wanna Do This Anymore,5de9Ho64dovuQI8Uhn5gPD,80,0.843,0.433,87561,0.778,0,E,0.139,-7.681,Major,0.041,114.208,4/4,0.764
+Industrial,Cardi B,Ring (feat. Kehlani),5DfWF0jqMgZDCiu9zJENTA,78,0.049,0.767,177140,0.543,0,C#,0.115,-7.881,Minor,0.103,106.029,4/4,0.485
+Prance,Hailee Steinfeld,Capital Letters,6l0Ky2PycJV1Bz88kFeVGL,81,0.0337,0.661,219373,0.814,8.27e-06,C,0.0518,-5.529,Major,0.0759,99.963,4/4,0.459
+Prance,Liam Payne,Familiar,0Y4hwUppbGc8aIBmiTz30A,78,0.0161,0.636,196552,0.805,0,A,0.0793,-4.594,Major,0.327,92.958,4/4,0.908
+Blues,Boogie,Rainy Days (feat. Eminem),015jLlgBeSkl3CApWJhlv7,76,0.0146,0.866,234640,0.51,0,A#,0.107,-6.254,Major,0.256,106.949,4/4,0.171
+Hip-Hop,Danny Ocean,Me Rehúso,6De0lHrwBfPfrhorm9q1Xl,84,0.0231,0.744,205715,0.804,0,C#,0.0494,-6.327,Major,0.0677,104.823,4/4,0.426
+Industrial,Jason Derulo,"Colors - Coca-Cola® Anthem, 2018 FIFA World CupTM",7wD6iRghe6SnKHkvHqpnC5,71,0.0278,0.707,187390,0.845,0,G#,0.134,-3.478,Major,0.201,120.125,4/4,0.507
+Industrial,System Of A Down,Toxicity,0snQkGI5qnAmohLE7jTsTn,78,0.000264,0.413,218933,0.873,0.0025,G#,0.204,-4.151,Major,0.0535,116.681,3/4,0.481
+Prance,Enrique Iglesias,SUBEME LA RADIO,7nKBxz47S9SD79N086fuhn,76,0.0744,0.684,208163,0.823,0,A,0.111,-3.297,Minor,0.0773,91.048,4/4,0.647
+Prance,Dua Lipa,New Rules,2ekn2ttSfGqwhhate0LSR0,86,0.00261,0.762,209320,0.7,1.56e-05,A,0.153,-6.021,Minor,0.0694,116.073,4/4,0.608
+Blues,ZAYN,PILLOWTALK,0PDUDa38GO8lMxLCRc4lL1,78,0.117,0.584,202747,0.7,0,B,0.0939,-4.275,Major,0.0456,124.944,4/4,0.438
+Blues,Lady Gaga,Million Reasons,7dZ1Odmx9jWIweQSatnRqo,83,0.437,0.665,205280,0.424,0,C,0.107,-7.838,Major,0.0444,129.911,4/4,0.134
+Hip-Hop,Zion & Lennox,La Player (Bandolera),0VKkyBKCXyR99navhVRqcP,83,0.16,0.769,249609,0.838,0,D,0.0935,-5.238,Major,0.0633,93.996,4/4,0.602
+Industrial,Quavo,WORKIN ME,33tNYw9oMtSkGe27NpgS64,78,0.182,0.79,169620,0.629,7.06e-06,G#,0.338,-4.055,Major,0.142,170.023,4/4,0.267
+Rock,Thomas Rhett,Die A Happy Man,5kNe7PE09d6Kvw5pAsx23n,77,0.381,0.66,227427,0.383,0,D,0.119,-9.377,Major,0.0304,83.096,4/4,0.381
+Hip-Hop,"nothing,nowhere.",Houdini,7cc6o0TiaDVvMAwZt5STd5,52,0.00142,0.576,235907,0.504,1.05e-05,G,0.112,-10.556,Major,0.0302,129.903,4/4,0.169
+Blues,BLACKPINK,BOOMBAYAH,3yHQKddM8SVCRnuPSo3HPN,77,0.00264,0.658,240849,0.836,1.02e-06,F,0.507,-3.282,Minor,0.0549,124.969,4/4,0.387
+Blues,50 Cent,Candy Shop,5D2mYZuzcgjpchVY1pmTPh,78,0.0253,0.614,209107,0.574,3.2e-05,B,0.38,-7.961,Major,0.466,125.173,5/4,0.755
+Industrial,J. Cole,Kevin’s Heart,6tZ3b7ik1QDXFAZlXib0YZ,79,0.482,0.829,200310,0.527,0,F#,0.631,-6.644,Minor,0.367,116.078,4/4,0.473
+Blues,Post Malone,Psycho (feat. Ty Dolla $ign),3swc6WTsr7rl9DqQKQA55C,89,0.58,0.739,221440,0.559,0,G#,0.112,-8.011,Major,0.117,140.124,4/4,0.439
+Blues,Marshmello,Alone,12mGwph2YzDIlChtq3EdXP,85,0.0244,0.636,273803,0.953,0.0164,D,0.108,-3.74,Major,0.0353,142.011,4/4,0.397
+Industrial,21 Savage,can't leave without it,0hPLZrnDgtKxrym1BHjDhd,80,0.111,0.872,205352,0.591,0,F#,0.144,-6.952,Minor,0.359,131.982,4/4,0.696
+Blues,Drake,God's Plan,6DCZcSspjsKoFjzjrWoCdn,89,0.0332,0.754,198973,0.449,8.29e-05,G,0.552,-9.211,Major,0.109,77.169,4/4,0.357
+Hip-Hop,Jason Derulo,"Colors - Coca-Cola® Anthem, 2018 FIFA World CupTM",7wD6iRghe6SnKHkvHqpnC5,71,0.0278,0.707,187390,0.845,0,G#,0.134,-3.478,Major,0.201,120.125,4/4,0.507
+Rock,FRENSHIP,Capsize,2XMTqoHHSH0lvuXrvIEdco,76,0.0398,0.683,237707,0.708,0.155,F,0.686,-6.244,Minor,0.0305,92.991,4/4,0.355
+Rock,U2,One,3G69vJMWsX6ZohTykad2AU,76,0.245,0.392,276187,0.534,0.00104,C,0.155,-8.793,Major,0.0369,181.305,4/4,0.325
+Rock,America,A Horse with No Name,54eZmuggBFJbV7k248bTTt,77,0.686,0.654,252240,0.506,0.0155,B,0.155,-17.18,Minor,0.0535,123.179,4/4,0.831
+Rock,a-ha,Take on Me,2WfaOiMkCvy7F5fcp2zZ8L,84,0.018,0.573,225280,0.902,0.00125,F#,0.0928,-7.638,Minor,0.054,84.412,4/4,0.876
+Blues,WALK THE MOON,Shut Up and Prance,4kbj5MwxO1bq9wjT5g9HaA,80,0.00701,0.578,199080,0.866,0,C#,0.257,-3.804,Major,0.0619,128.038,4/4,0.619
+Blues,Carlos Vives,Robarte un Beso,0JcNysfWVWaMS7R6vzGB2k,79,0.0826,0.742,194742,0.858,0,A#,0.364,-4.946,Major,0.0483,95.049,4/4,0.64
+Blues,Billie Eilish,watch,7eB1V5LvAdxCc7brfGhRRo,82,0.333,0.441,177523,0.599,0.00198,C,0.103,-8.985,Major,0.225,165.212,4/4,0.35
+Blues,Migos,MotorSport,4wFjTWCunQFKtukqrNijEt,82,0.0338,0.896,303077,0.515,0,D,0.317,-5.395,Major,0.183,138.016,4/4,0.174
+Rock,Eurythmics,Sweet Dreams (Are Made of This) - Remastered,1TfqLAPs4K3s2rJMoCokcS,82,0.227,0.692,216933,0.711,0,C,0.12,-7.498,Minor,0.0317,125.135,4/4,0.875
+Prance,Destiny's Child,Say My Name,7H6ev70Weq6DdpZyyTmUXk,78,0.273,0.713,271333,0.678,0,F,0.149,-3.525,Minor,0.102,138.009,4/4,0.734
+Industrial,Lil Pump,Racks on Racks,0SfG57HqtBNqKN9O27fo1s,80,0.0311,0.822,129778,0.484,6.22e-06,C#,0.31,-7.166,Major,0.0865,150.061,4/4,0.0934
+Rock,Counting Crows,Mr. Jones,5DiXcVovI0FcY2s0icWWUu,78,0.211,0.581,272507,0.817,1.42e-06,C,0.246,-6.542,Major,0.0382,141.607,4/4,0.779
+Prance,Robin Schulz,Sugar (feat. Francesco Yates),5tf1VVWniHgryyumXyJM7w,78,0.0185,0.636,219043,0.815,0,F,0.163,-5.098,Minor,0.0581,123.063,4/4,0.636
+Rock,Papa Roach,Last Resort,5W8YXBz9MTIDyrpYaCg2Ky,78,0.000481,0.589,199907,0.89,0.00082,E,0.201,-3.719,Minor,0.0603,90.598,4/4,0.692
+Blues,Grupo Arranke,A Través Del Vaso,0oCSitNlzsQfuIapF9tXRQ,80,0.358,0.612,188662,0.694,1.31e-05,F,0.347,-2.979,Major,0.0297,143.851,3/4,0.92
+Industrial,Aminé,REEL IT IN (feat. Gucci Mane) - Remix,4yVEpUXxYgBwfSOKGTFxv5,77,0.0624,0.779,166960,0.355,0,A#,0.159,-8.971,Minor,0.0789,128.805,4/4,0.362
+Hip-Hop,Flo Rida,My House,6Knv6wdA0luoMUuuoYi2i1,77,0.0215,0.688,192191,0.702,0,G,0.128,-4.792,Minor,0.0499,94.006,4/4,0.74
+Industrial,Kendrick Lamar,"Bitch, Don’t Kill My Vibe - Remix",7ALEBJ8LOQqXVJ2tqnXtoH,62,0.0545,0.631,278800,0.791,0,C#,0.226,-5.776,Major,0.227,133.672,4/4,0.123
+Prance,Charlie Puth,The Way I Am,6qNALlmZa1ESnCxJmXE1K9,76,0.314,0.755,186080,0.769,2.38e-06,A#,0.0628,-5.658,Minor,0.186,114.966,4/4,0.642
+Industrial,Eminem,Lucky You (feat. Joyner Lucas),60SdxE8apGAxMiRrpbmLY0,86,0.0627,0.876,244679,0.786,0,A#,0.127,-4.884,Minor,0.306,153.068,4/4,0.575
+Blues,Frank Ocean,Nights,7eqoqGkKwgOaWNNHx90uEZ,78,0.42,0.466,307151,0.548,1.01e-06,F,0.113,-9.362,Minor,0.118,89.815,4/4,0.423
+Industrial,Kendrick Lamar,DNA.,6HZILIRieu8S0iqY8kIKhj,82,0.00454,0.638,185947,0.523,0,C#,0.0842,-6.664,Major,0.357,139.913,4/4,0.422
+Industrial,Kesha,Praying,0jdny0dhgjUwoIp5GkqEaA,76,0.491,0.576,230267,0.39,0,A#,0.111,-7.202,Major,0.0297,73.433,4/4,0.319
+Hip-Hop,Meek Mill,On Me (feat. Cardi B),3DnZfpfe8wLeJgzc00gKeW,76,0.0482,0.864,225008,0.666,0,C#,0.134,-5.525,Major,0.234,132.12,4/4,0.538
+Blues,Lewis Capaldi,Someone You Loved,2TIlqbIneP0ZY1O0EzYLlc,91,0.751,0.501,182161,0.405,0,C#,0.105,-5.679,Major,0.0319,109.891,4/4,0.446
+Prance,Selena Gomez,Back To You - From 13 Reasons Why – Season 2 Soundtrack,4hQ6UGyWQIGJmHSo0J88JW,84,0.0945,0.601,207905,0.724,1.68e-06,F#,0.12,-4.856,Major,0.0486,102.061,4/4,0.508
+Industrial,Migos,MotorSport,4wFjTWCunQFKtukqrNijEt,82,0.0338,0.896,303077,0.515,0,D,0.317,-5.395,Major,0.183,138.016,4/4,0.174
+Blues,The Chainsmokers,Don't Let Me Down,1i1fxkWeaMmKEB4T7zqbzK,82,0.157,0.532,208373,0.869,0.00508,B,0.136,-5.094,Major,0.172,159.803,4/4,0.422
+Hip-Hop,BlocBoy JB,Look Alive (feat. Drake),4qKcDkK6siZ7Jp1Jb4m0aL,87,0.00104,0.922,181263,0.581,5.86e-05,A#,0.105,-7.495,Major,0.27,140.022,4/4,0.595
+Blues,Quavo,FLIP THE SWITCH (feat. Drake),1rlIrbWboTRGeKfHhgbJRZ,78,0.129,0.853,156195,0.637,0,D#,0.267,-5.924,Minor,0.331,86.048,4/4,0.496
+Blues,George Michael,Careless Whisper,4jDmJ51x1o9NZB5Nxxc7gY,76,0.128,0.574,300107,0.629,0,D,0.271,-8.815,Minor,0.0363,153.119,4/4,0.786
+Blues,The Weeknd,I Feel It Coming,3dhjNA0jGA8vHBQ1VdD6vV,81,0.426,0.773,269187,0.819,0,C,0.0679,-5.946,Minor,0.118,92.99,4/4,0.585
+Hip-Hop,Gucci Mane,BiPolar (feat. Quavo),4fGT0JiaqoHShrg6uSsKfB,76,0.144,0.747,214642,0.569,0,G#,0.18,-6.679,Major,0.146,157.056,4/4,0.167
+Rock,Plain White T's,Hey There Delilah,4RCWB3V8V0dignt99LZ8vH,80,0.872,0.657,232533,0.291,0,D,0.114,-10.572,Major,0.0293,103.973,4/4,0.298
+Prance,Louis Tomlinson,Back to You (feat. Bebe Rexha & Digital Farm Animals),7F9vK8hNFMml4GtHsaXui6,76,0.207,0.683,190428,0.53,0,F,0.394,-4.918,Minor,0.142,75.016,4/4,0.645
+Prance,Ariana Grande,7 rings,14msK75pk3pA33pzPVNtBF,100,0.578,0.725,178640,0.321,0,C#,0.0884,-10.744,Minor,0.323,70.142,4/4,0.319
+Blues,Hailee Steinfeld,Most Girls,10GJQkjRJcZhGTLagFOC62,79,0.0485,0.76,204400,0.588,0,A,0.0847,-7.082,Major,0.0775,102.974,4/4,0.384
+Blues,Offset,Clout (feat. Cardi B),59ywHNwwchG4nZJMLyxSzd,77,0.228,0.919,205803,0.622,4.24e-06,C#,0.122,-7.384,Major,0.0997,140.022,4/4,0.424
+Prance,Jason Derulo,"Colors - Coca-Cola® Anthem, 2018 FIFA World CupTM",7wD6iRghe6SnKHkvHqpnC5,71,0.0278,0.707,187390,0.845,0,G#,0.134,-3.478,Major,0.201,120.125,4/4,0.507
+Hip-Hop,Famous Dex,PICK IT UP (feat. A$AP Rocky),3ncgNpxLoBQ65ABk4djDyd,79,0.0149,0.921,191252,0.467,0.000238,C#,0.334,-8.443,Major,0.119,135.995,4/4,0.287
+Blues,Rita Ora,Your Song,4c2W3VKsOFoIg2SFaO6DY5,79,0.158,0.855,180757,0.624,0,C#,0.0513,-4.093,Major,0.0488,117.959,4/4,0.962
+Prance,Juanes,La Plata (feat. Lalo Ebratt),7Eso5mURNFprb5PmhOXDlf,78,0.201,0.762,195493,0.74,0,C#,0.275,-4.72,Minor,0.226,167.881,4/4,0.961
+Prance,Shawn Mendes,Nervous,5wxurz8J6YlyQRNnGN8zXS,76,0.0404,0.841,164147,0.623,0,C,0.126,-6.76,Major,0.0776,121.983,4/4,0.744
+Prance,Mario,Let Me Love You,3ibKnFDaa3GhpPGlOUj7ff,80,0.235,0.656,256733,0.578,0,G,0.118,-8.97,Minor,0.0922,94.514,4/4,0.556
+Industrial,Lil Baby,Drip Too Hard (Lil Baby & Gunna),78QR3Wp35dqAhFEc2qAGjE,92,0.103,0.896,145543,0.671,0,C#,0.552,-6.977,Minor,0.289,112.502,4/4,0.358
+Blues,Flo Rida,Low (feat. T-Pain),0CAfXk7DXMnon4gLudAp7J,80,0.0928,0.918,231400,0.609,0,A#,0.139,-5.64,Minor,0.0791,128.008,4/4,0.304
+Blues,Drake,Passionfruit,5mCPDVBb16L4XQwDdbRUpz,82,0.304,0.804,298941,0.459,0.0862,B,0.11,-11.556,Major,0.039,111.963,4/4,0.372
+Industrial,Boogie,Rainy Days (feat. Eminem),015jLlgBeSkl3CApWJhlv7,76,0.0146,0.866,234640,0.51,0,A#,0.107,-6.254,Major,0.256,106.949,4/4,0.171
+Blues,KIAN,Waiting,0TBFJanfWaByPIi3f7RR82,77,0.372,0.787,215653,0.448,0,E,0.0779,-7.671,Minor,0.0508,138.03,4/4,0.471
+Blues,The Proclaimers,I'm Gonna Be (500 Miles),66S14BkJDxgkYxLl5DCqOz,76,0.151,0.851,219467,0.551,0,E,0.0827,-5.177,Major,0.0396,131.922,4/4,0.807
+Rock,The Beatles,I Want To Hold Your Hand - Remastered 2015,4pbG9SUmWIvsROVLF0zF9s,76,0.386,0.49,145747,0.715,0,G,0.311,-5.549,Major,0.0476,130.726,4/4,0.866
+Blues,iKON,LOVE SCENARIO,6qAzAmPBUpGrk7XADZHR5k,77,0.331,0.806,209648,0.707,0,G,0.294,-4.623,Major,0.0307,118.011,4/4,0.746
+Rock,Jet,Are You Gonna Be My Girl,305WCRhhS10XUcH6AEwZk6,77,0.00148,0.613,213800,0.953,0.000582,D,0.152,-3.435,Major,0.0855,105.046,4/4,0.537
+Industrial,Lil Peep,I've Been Waiting (w/ ILoveMakonnen & Fall Out Boy),2v5JTeM6hSmi5wWy7jiwrI,84,0.15,0.741,233613,0.845,0,F,0.174,-3.568,Minor,0.0381,129.939,4/4,0.926
+Industrial,The Weeknd,Pray For Me (with Kendrick Lamar),77UjLW8j5UAGAGVGhR5oUK,81,0.0762,0.735,211440,0.677,2.17e-05,D,0.111,-4.979,Major,0.093,100.584,4/4,0.188
+Prance,Ava Max,Sweet but Psycho,25sgk305KZfyuqVBQIahim,97,0.0691,0.719,187436,0.704,0,C#,0.166,-4.724,Major,0.0476,133.002,4/4,0.628
+Electronic,Daft Punk,Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit,2Foc5Q5nqNiosCNqttzHof,76,0.0426,0.794,248413,0.811,1.07e-06,F#,0.101,-8.966,Minor,0.038,116.047,4/4,0.862
+Prance,Bebe Rexha,Meant to Be (feat. Florida Georgia Line),7iDa6hUg2VgEL1o1HjmfBn,85,0.047,0.643,163870,0.783,0,A#,0.083,-6.458,Major,0.0856,154.084,4/4,0.579
+Industrial,Kehlani,Feels,4BOikd4oZjOYMde9AXfrTo,76,0.259,0.369,181140,0.609,4.1e-05,A,0.133,-4.477,Minor,0.184,80.362,1/4,0.381
+Industrial,Drake,Portland,2bjwRfXMk4uRgOD9IBYl9h,76,0.0143,0.924,236615,0.444,0,C#,0.26,-8.227,Major,0.243,136.088,4/4,0.314
+Blues,Luis Fonsi,Calypso,4178A5NkEjcsGc64jpBO6d,78,0.138,0.866,200347,0.859,0,C#,0.401,-3.087,Minor,0.0587,109.972,4/4,0.923
+Blues,Rae Sremmurd,Black Beatles,6fujklziTHa8uoM5OQSfIo,78,0.142,0.794,291893,0.632,0,C,0.128,-6.163,Major,0.0649,145.926,4/4,0.355
+Blues,Kehlani,Feels,4BOikd4oZjOYMde9AXfrTo,76,0.259,0.369,181140,0.609,4.1e-05,A,0.133,-4.477,Minor,0.184,80.362,1/4,0.381
+Industrial,Post Malone,Rich & Sad,2VdT56BGpdqNHUgOe1j5vc,80,0.186,0.601,206453,0.59,0,D,0.0942,-5.001,Major,0.0569,151.952,4/4,0.274
+Blues,Kygo,Stargazing,0Zbbxnx4SGGHoIow4PpISP,79,0.152,0.677,236853,0.497,0,F,0.0911,-5.763,Major,0.0809,99.137,4/4,0.419
+Hip-Hop,21 Savage,all my friends,4paAidoE8VAemwU4jgCc6l,80,0.171,0.713,211785,0.62,1.16e-06,C,0.118,-4.513,Major,0.0422,130.09,4/4,0.206
+Hip-Hop,"Tyler, The Creator",Analog (Featuring Hodgy Beats),7Fe9DrgoqEiSv6et53YzwA,45,0.00435,0.36,174400,0.702,0.000883,C,0.772,-9.474,Minor,0.292,87.287,5/4,0.428
+Hip-Hop,Nelly,Dilemma,0ARK753YaiJbpLUk7z5yIM,78,0.211,0.725,289173,0.534,2.91e-05,D,0.221,-8.364,Minor,0.167,168.119,4/4,0.621
+Blues,Miguel,Sky Walker (feat. Travis Scott),5WoaF1B5XIEnWfmb5NZikf,78,0.173,0.674,259333,0.506,0,F#,0.0866,-10.532,Major,0.0434,145.965,4/4,0.183
