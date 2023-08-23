@@ -1,3 +1,4 @@
+﻿genre,artist_name,track_name,track_id,popularity,acousticness,danceability,duration_ms,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,valence
 Dance,Ariana Grande,7 rings,14msK75pk3pA33pzPVNtBF,100,0.578,0.725,178640,0.321,0,C#,0.0884,-10.744,Minor,0.323,70.142,4/4,0.319
 Dance,Halsey,Without Me,5p7ujcrUXASCNwRaWNHR1C,97,0.297,0.752,201661,0.488,9.11e-06,F#,0.0936,-7.05,Major,0.0705,136.041,4/4,0.533
 Dance,Ariana Grande,needy,1TEL6MlSSVLSdhOSddidlJ,92,0.78,0.647,171573,0.309,7.41e-06,G,0.202,-7.948,Minor,0.0366,87.045,4/4,0.195
